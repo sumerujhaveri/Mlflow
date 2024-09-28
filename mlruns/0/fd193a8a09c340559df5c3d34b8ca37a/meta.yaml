@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/NMIMS%20UNI/4th%20Year/7th%20Sem/DevOps/MLFLow/mlruns/0/fd193a8a09c340559df5c3d34b8ca37a/artifacts
+end_time: 1727517716996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd193a8a09c340559df5c3d34b8ca37a
+run_name: trusting-frog-878
+run_uuid: fd193a8a09c340559df5c3d34b8ca37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727517712174
+status: 3
+tags: []
+user_id: sumer
